@@ -1,0 +1,302 @@
+{
+  "OPIS": {
+    "elevation": 1761,
+    "runways": "28L,10R,28R,10L",
+    "transAlt": 12000,
+    "maxInitialClimb": 16000,
+    "intersections": {"28L": "J,H,G,F", "10R": "A,B", "28R": "J,H,G,F", "10L": "A,L"},
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "LC,ISB,ISA,ISD,IST,ISG,ICD",
+    "sids": {
+      "climbvia": true,
+      "BOBAM": {
+        "L": {
+          "1": {
+            "rwy": "10R",
+            "initial": 8000,
+            "prio": 1
+          }
+        },
+        "M": {
+          "1": {
+            "rwy": "28L",
+            "initial": 8000,
+            "prio": 1
+          }
+		},  
+		    "Q": {
+          "1": {
+            "rwy": "10L",
+            "initial": 8000,
+            "prio": 1
+          }
+		},
+		"R": {
+          "1": {
+		   "rwy": "28R",
+            "initial": 8000,
+            "prio": 1
+          }
+        },
+		"N": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 8000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "10R",
+            "initial": 8000,
+            "prio": 2
+          }  		  
+        },
+		"P": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 8000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 8000,
+            "prio": 1
+          }  		  
+        }
+      },
+      "BELKO": {
+        "E": {
+          "1": {
+            "rwy": "10R",
+            "initial": 16000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "28L",
+            "initial": 16000,
+            "prio": 1
+          }
+        },
+		"J": {
+          "1": {
+            "rwy": "10L",
+            "initial": 16000,
+            "prio": 1
+          }
+		},
+        "K": {
+           "1": { 
+			"rwy": "28R",
+            "initial": 16000,
+            "prio": 1
+           }
+         },
+		"G": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 16000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "10R",
+            "initial": 16000,
+            "prio": 2
+          }  		  
+        },
+		"H": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 16000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 16000,
+            "prio": 2
+         }  		  
+        } 
+       },
+      "DAMTO": {
+        "F": {
+          "1": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 1
+          }
+		},  
+        "K": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 1
+          }
+		},  
+		"L": {  
+		  "1": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 1
+          }
+         },  		  
+		"H": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        },
+		"J": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        }
+      },
+	  "INDEK": {
+        "C": {
+          "1": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 1
+          }
+         },
+        "D": {
+          "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 1
+          }
+		} , 
+        "G": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 1
+          }
+		} , 
+		"H": {  
+		  "1": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 1
+          }
+         },  		  
+		"E": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        }
+      },
+      "KALMI": {
+        "C": {
+          "1": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 1
+          }
+         },
+        "D": {
+          "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 1
+          }
+		}  ,
+        "E": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 1
+          }
+		}  ,
+		"J": {  
+		  "1": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 1
+          } 
+         },  		  
+		"F": {  
+		  "1": {
+            "rwy": "10L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "10R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        },
+		"G": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 2
+          }  		  
+        },
+		"H": {  
+		  "1": {
+            "rwy": "28L",
+            "initial": 7000,
+            "prio": 3
+          }, 
+          "2": {
+            "rwy": "28R",
+            "initial": 7000,
+            "prio": 3
+      }
+     }
+    }
+
+  }
+ }	   
+}      
+      
+    
+  
+

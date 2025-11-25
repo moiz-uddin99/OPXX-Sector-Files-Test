@@ -1,0 +1,469 @@
+{
+  "OPLA": {
+    "elevation": 714,
+    "runways": "36L,36R,18R,18L",
+    "transAlt": 4000,
+    "maxInitialClimb": 14000,
+    "intersections": {"36L": "A", "36R": "Q,T", "18R": "Y,B", "18L": "S,Z,U"},
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "LC,LAA,LAT,LAG",
+    "sids": {
+      "climbvia": true,
+      "ADNIM": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    },		 
+      "AKBER": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    },
+      "LAXEB": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    },
+      "MUKVI": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    },
+      "BIBUN": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+         }
+	    },
+      "MIMAL": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+         }
+	    },
+      "OMUKI": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    },		 
+      "RABAN": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 15000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 15000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 15000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 15000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 15000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 15000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 15000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 15000,
+            "prio": 2
+		  }
+		 }
+	    },
+      "SULOM": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 15000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 15000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 15000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 15000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 15000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 15000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 15000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 15000,
+            "prio": 2
+		  }
+		 }
+	    },
+      "VEREN": {
+        "D": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"E": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 1
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 1
+          }  		  
+        },
+		"F": {  
+		  "1": {
+            "rwy": "36L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "36R",
+            "initial": 14000,
+            "prio": 2
+		 }
+       },
+	    "G": {  
+		  "1": {
+            "rwy": "18L",
+            "initial": 14000,
+            "prio": 2
+          }, 
+          "2": {
+            "rwy": "18R",
+            "initial": 14000,
+            "prio": 2
+		  }
+		 }
+	    }
+    }		
+   }   
+  } 
+  
+

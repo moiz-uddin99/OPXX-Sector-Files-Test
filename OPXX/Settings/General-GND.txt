@@ -4,7 +4,7 @@ m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
-m_ShowSimulatedData:1
+m_ShowSimulatedData:0
 m_TransitionAltitude:3000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
@@ -41,7 +41,7 @@ m_VoiceAtisBuilderUrl:http://vacchun.hu/td/esmetar.php?tlcond=100,1013,110&metar
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
 SET_TransparentAcListBackground:1
-m_PutIncomingCoordinationToFirst:0
+m_PendingCoordinationToTopOfLists:0
 m_AutoProxyMode:0
 m_TransparentAcListSelectedBackground:1
 m_TransparentDetailedTagBackground:0
@@ -131,6 +131,10 @@ m_StartupTime:10
 m_ConnectTime:15
 m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
+m_FilterOutSquawks:
+m_EquipmentsIcaoFormat:1
+m_DoNotShowMessageHandlersInProxy:0
+m_DoNotShowMessageHandlersInMainIfProxyConnected:0
 ORIGPLANE
 m_Visible:0
 m_X:70
@@ -232,4 +236,17 @@ m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
 m_Column:STN:4:1:19:29:0:1::::1:0.0
 m_Column:ATYP:4:1:16:0:0:1::::1:0.0
 m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+PENDCOORD
+m_Visible:0
+m_X:130
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:SI:8:0:26:20:6:1::::1:0.0
+m_Column:COPX:6:0:28:10:0:1::::1:0.0
+m_Column:ALT:4:0:29:26:36:1::::1:0.0
 END
