@@ -1,0 +1,359 @@
+[
+  {
+    "icao": "OPKC",
+    "sids": {
+      "BADUL": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "OPIS",
+            "OPLA",
+            "OPMT",
+            "OPSK",
+            "OPSD",
+            "OPFA",
+            "OPST",
+            "ZBAA"
+          ],
+          "airways": [
+            "J112",
+            "B466",
+            "Z302",
+			"Z301"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OPQT",
+            "OPPS"
+          ],
+          "airways": [
+            "J112",
+            "J139",
+            "Z306"
+          ]
+        }
+      ],
+      "MELOM": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OPTU",
+            "OPGW",
+            "OOSA",
+            "OOMS",
+            "OEJN",
+            "OERK",
+            "OEMA",
+            "OTHH",
+            "OIIE",
+            "ORNI",
+            "OSDI",
+            "OMSJ",
+            "OMDB",
+            "OMAA",
+            "UBBB",
+            "OBBI",
+            "OKKK",
+            "EGCC",
+            "CYYZ",
+            "HAAB",
+            "OMRK",
+            "OEGS",
+            "LTFM",
+            "OIMM",
+            "ORBI"
+          ],
+          "airways": [
+            "A454",
+            "A325",
+            "J167",
+            "G208"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "A454",
+            "A325",
+            "J167",
+            "G208"
+          ]
+        }
+      ],
+      "DANGI": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "ZGNN",
+            "VCBI",
+            "VTBS"
+          ],
+          "airways": [
+            "A791"
+          ]
+        },
+        {
+          "direction": "ODD",
+          "airways": [
+            "A791"
+          ]
+        }
+      ],
+      "NIROL": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "WMKK"
+          ],
+          "airways": [
+            "Z10"
+          ]
+        },
+        {
+          "direction": "ODD",
+          "airways": [
+            "Z10"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "icao": "OPIS",
+    "sids": {
+      "BOBAM": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "OPSD",
+            "ZWWW",
+            "OPGT",
+            "ZWSH",
+            "ZBAA"
+          ],
+          "airways": [
+            "J186",
+            "J131"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OPCH"
+          ],
+          "airways": [
+            "J130"
+          ]
+        }
+      ],
+      "KALMI": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "UBBB",
+            "EGKK",
+            "LTFM",
+            "OPQT",
+            "ORNI",
+            "OAKB",
+            "EGCC",
+            "UZTT",
+            "LFPG",
+            "CYYZ",
+            "OEDF",
+            "OTHH",
+            "OMDB",
+            "OMSJ",
+            "OMAA",
+            "OBBI",
+            "OERK"
+          ],
+          "airways": [
+            "J143",
+            "J139",
+            "Z304",
+            "Z305"
+          ]
+        }
+      ],
+      "DAMTO": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OKKK",
+            "OEGS",
+            "OMAL",
+            "OOMS"
+          ],
+          "airways": [
+            "Z304"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "Z304"
+          ]
+        }
+      ],
+      "INDEK": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "VTBS",
+            "ZGGG",
+            "WMKK"
+          ],
+          "airways": [
+            "L509",
+            "T400"
+          ]
+        },
+        {
+          "direction": "ODD",
+          "airways": [
+            "L509",
+            "T400"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "icao": "OPLA",
+    "sids": {
+      "MIMAL": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OPKC"
+          ],
+          "airways": [
+            "G214"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "G214"
+          ]
+        }
+      ],
+      "ADNIM": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "UBBB"
+          ],
+          "airways": [
+            "Z305"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "Z305"
+          ]
+        }
+      ],
+      "AKBER": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "UCFM",
+            "UZTT",
+            "CYYZ"
+          ],
+          "airways": [
+            "T400",
+            "J121"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "T400",
+            "J121"
+          ]
+        }
+      ],
+      "LAXEB": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "LTFM",
+            "OPQT"
+          ],
+          "airways": [
+            "A466",
+            "Z303"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "A466",
+            "Z303"
+          ]
+        }
+      ],
+      "SULOM": [
+        {
+          "direction": "ODD",
+          "destinations": [
+            "ZGGG",
+            "WMKK",
+            "VTBS",
+            "ZPPP",
+            "VCBI",
+            "ZGNN"
+          ],
+          "airways": [
+            "A466",
+            "L509"
+          ]
+        },
+        {
+          "direction": "ODD",
+          "airways": [
+            "A466",
+            "L509"
+          ]
+        }
+      ],
+      "VEREN": [
+        {
+          "direction": "EVEN",
+          "destinations": [
+            "OMDB",
+            "OERK",
+            "OBBI",
+            "OEJN",
+            "OMAA",
+            "OEMA",
+            "OMSJ",
+            "ORNI",
+            "OEDF",
+            "OTHH",
+            "OMRK",
+            "OOMS",
+            "OKKK"
+          ],
+          "airways": [
+            "J166",
+            "G214"
+          ]
+        },
+        {
+          "direction": "EVEN",
+          "airways": [
+            "J166",
+            "G214"
+          ]
+        }
+      ]
+    }
+  }
+]
