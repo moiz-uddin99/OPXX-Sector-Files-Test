@@ -1,8 +1,16 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files-Test\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPKR C ACC:
+ARTCC boundary:OPKR E ACC:
+ARTCC boundary:OPKR S ACC:
+ARTCC boundary:OPKR W ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
 Airports:OPBN:name
 Airports:OPBW:name
 Airports:OPCH:name
@@ -39,14 +47,6 @@ Airports:OPSW:name
 Airports:OPTA:name
 Airports:OPTU:name
 Airports:OPZB:name
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPKR C ACC:
-ARTCC boundary:OPKR E ACC:
-ARTCC boundary:OPKR S ACC:
-ARTCC boundary:OPKR W ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR S ACC:
-ARTCC boundary:OPLR W ACC:
 Free Text:OPKR Neighbouring FIR\OIIX (Tehran):freetext
 Free Text:OPKR Neighbouring FIR\OOMM (Muscat):freetext
 Free Text:OPKR Neighbouring FIR\VABF (Mumbai):freetext
@@ -231,4 +231,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:22.256540:52.996962:39.499472:86.770410
+WINDOWAREA:21.254346:52.874943:35.048692:82.605492

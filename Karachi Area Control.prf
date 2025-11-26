@@ -106,3 +106,5 @@ Plugins	Plugin8	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin9	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen

@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC low boundary:OPIS CTR:
 Runways:OPIS 10R-28L:centerline
 Runways:OPIS 10R-28L:extended centerline 1
@@ -28,4 +28,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:33.265481:72.165578:33.873793:73.489168
+WINDOWAREA:32.396509:70.337983:34.739182:75.387078
