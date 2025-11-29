@@ -35,7 +35,7 @@ Settings	airlines	\OPXX\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\OPXX\NavData\icao.txt
 Settings	airports	\OPXX\ICAO\ICAO_Airports.txt
 Settings	airways	\OPXX\NavData\airway.txt
-Settings	sector	\OPXX-Install-Package_20251002185553-251001-0001.sct
+Settings	sector	\OPXX-DEV_20251129102105-251201-0002.sct
 Sounds	Sound0	\OPXX\Sounds\handoff_request.wav
 Sounds	Sound1	\OPXX\Sounds\handoff_accept.wav
 Sounds	Sound10	\OPXX\Sounds\disconnected.wav
@@ -84,8 +84,8 @@ Plugins	Plugin8	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin4Display2	Standard ES radar screen
-Plugins	Plugin9	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
+Plugins	Plugin9	\OPXX\Plugins\Topsky TMA OPXX\TopSky.dll
 Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin7Display3	Standard ES radar screen
-Plugins	Plugin9Display0	Standard ES radar screen
-Plugins	Plugin9Display1	Ground Radar display
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
